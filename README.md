@@ -131,13 +131,13 @@ sequenceDiagram
 
 ```
 ecommerce-customer-behaviour-analysis/
-├── E-commerce_Customer_Analysis.ipynb  # Main analysis notebook
-├── E-commerce Customer Behavior.xlsx   # Dataset 
-├── E-commerce Customer Behavior.csv   # Dataset 
-├── requirements.txt                   # Python dependencies
-├── README.md                          # Project documentation
-├── LICENSE                            # MIT License
-└── .gitignore                         # Git ignore file
+├── ecommerce-customer-behaviour-analysis.ipynb  # Main analysis notebook
+├── E-commerce Customer Behavior.xlsx            # Dataset 
+├── E-commerce Customer Behavior.csv             # Dataset 
+├── requirements.txt                             # Python dependencies
+├── README.md                                    # Project documentation
+├── LICENSE                                      # MIT License
+└── .gitignore                                   # Git ignore file
 ```
 
 ---
